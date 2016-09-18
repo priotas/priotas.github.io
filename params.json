@@ -1,6 +1,6 @@
 {
   "name": "priotas.github.io",
   "tagline": "<3 for Open Source",
-  "body": "{% for repository in site.github.public_repositories %}\r\n  * [{{ repository.name }}]({{ repository.html_url }})\r\n{% endfor %}",
+  "body": "-",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
