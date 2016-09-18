@@ -10,6 +10,7 @@ $(document).ready(function() {
             'git reset --hard', 
             'ps faux | grep dump', 
             'du -ck', 
+            ':S',
             'man man',
             'npm install webpack -g',
             'lynx https://www.priotas.de',
