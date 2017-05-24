@@ -12,9 +12,11 @@ $(document).ready(function() {
             'du -ck', 
             ':S',
             'man man',
-            'npm install webpack -g',
+            'yarn global add webpack',
+            'pip install -r requirements.txt',
+            'git commit -m "meh" -a',
             'lynx https://www.priotas.de',
-            'bin/behat -vv --profile ci --tags "~@performance"',
+            'bin/behat -vv --profi le ci --tags "~@performance"',
             'git clone <a href="https://github.com/priotas/twig-qrcode-extension">https://github.com/priotas/twig-qrcode-extension</a>'
         ],
         typeSpeed: 100,
